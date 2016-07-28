@@ -1,0 +1,833 @@
+[{
+	"settings": {
+		"Docname": "Killer",
+		"status": "Approved"
+	},
+	"Security": {
+		"p1": "Linus T",
+		"p2": "MomTT",
+		"p3": "TrahairT",
+		"p4": "BesT",
+		"p5": "Lol",
+		"Comment": "MEgala"
+	},
+	"FormIdentification": {
+		"Principle_Borrow": "Lt",
+		"AllenOveryCorM_Num": "10101010101",
+		"Relevant_Facility": "Senior"
+	},
+	"Common_Venders": [false, false, false, false, false, true, true, false, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+	"AdditionalLenders": "bbs",
+	"final_report_dist_list": "bbs",
+	"PSponsor": "triple",
+	"OrigDate": "27/07/2016",
+	"Date": "27/07/2016",
+	"Commit": [{
+		"Facility": "ko",
+		"Currency": "lol",
+		"Amount": 12333333
+	}, {
+		"Facility": "ko",
+		"Currency": "ko",
+		"Amount": 23
+	}],
+	"Contacts": [{
+		"FullName": "www",
+		"Role": "mom",
+		"Contact": "444"
+	}, {
+		"FullName": "swe",
+		"Role": "ddd",
+		"Contact": "12"
+	}, {
+		"FullName": "Memes",
+		"Role": "23",
+		"Contact": "1111"
+	}],
+	"restricted": false,
+	"Facilities": {
+		"Type": "dad",
+		"Maturity": "lol",
+		"Facility": "Mom",
+		"Currency": "AAA",
+		"Amount": 123
+	},
+	"PurposeClause": {
+		"ClauseRef": "dd",
+		"OtherVar": "killer"
+	},
+	"consentlvl": "my mom",
+	"extension": "my dad",
+	"CreditToInterestRate": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"DisposeMandatorPrepayment": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ChangeMandatorPrepayment": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"CreditToTax_Gross_up": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"CreditToNegPledge": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"CreditToRestriction_IncurrringIndebtedness": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"FinancialCovenants": {
+		"debtLeverage": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"interestCover": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"CashflowCover": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"tangibleNetWorth": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		}
+	},
+	"MoreFinancialCovenants": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ObligationCause": {
+		"DocByBorrowToCreditors": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"DetailLitArbAdminProcess": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"NotificAnyDefault": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"FurtherInfoRequestFinConBusOp": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"NotificChngeOwnerOfBorrow": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"NotificChngeConstDocObligor": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"ConsAnnualFinancialStatement": {
+			"Number": 12,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"ConsSemiAnnualFinancialStatement": {
+			"Number": 1111,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		},
+		"ConsQuartAnnualFinancialStatement": {
+			"Number": 1111,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		},
+		"ConsMonthAnnualFinancialStatement": {
+			"Number": 23,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"UnConsAnnualFinancialStatement": {
+			"Number": 212333,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		},
+		"UnConsSemiAnnualFinancialStatement": {
+			"Number": 0,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"UnConsQuartAnnualFinancialStatement": {
+			"Number": 0,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"UnConsMonthAnnualFinancialStatement": {
+			"Number": 0,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		}
+	},
+	"IsFailPayEvent": true,
+	"MaterialAdverseChangeEvent": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"ProvCrossDefault_CrossAccel": {
+		"ClauseRef": "Clause",
+		"OtherVar": "cross-default"
+	},
+	"CrossDefOrAccelThresh": {
+		"STRING": "23423",
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "my mom"
+		}
+	},
+	"CAgrContClauseFavBank": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"GovLawPrincCAgr": "English",
+	"CAPArbitration": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"VoteOnPerameter": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"LenderSplitCommitLoansVote": {
+		"ClauseRef": "Clause",
+		"OtherVar": "No"
+	},
+	"SplitVoteDetail": {
+		"ClauseRef": "Clause",
+		"OtherVar": "3t4t432314231"
+	},
+	"HedgeBeforeEnf": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"HedgeAfterEnf": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ObligorNameJurJob": {
+		"ClauseRef": "Clause",
+		"OtherVar": "pup900-0oi9u90[u"
+	},
+	"GuarantorsGuarantAllBorrow": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"DoesAgreeAllowAddBorrow": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ConsLvlAdditionBorrowersNewJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "majority"
+	},
+	"DoesAgreeAllowAddGuarantors": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ConsLvlAdditionBorrowersExstJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "none"
+	},
+	"ConsLvlAdditionGuarantorsExstJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "none"
+	},
+	"ConsLvlAdditionGuarantorsNewJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "all"
+	},
+	"IsSecurity": false,
+	"SecurityDescrip": "2123",
+	"LawsGovSecurity": "English",
+	"IsIntercreditorAgreement": false,
+	"SecurityBenefitHedge": true,
+	"IsOriginalDocProvidedToSecurityTrust": false,
+	"DefaultnoDefault": [{
+		"TransferOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-no-consultation"
+		},
+		"DisclosureOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-no-consultation"
+		},
+		"TransferBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"DisclosureBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-no-consultation"
+		},
+		"TransferAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"DisclosureAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"AnyRequirPotentTransfereeRegulate": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		}
+	}, {
+		"TransferOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"DisclosureOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"TransferBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"DisclosureBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"TransferAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"DisclosureAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(unreasonable)"
+		},
+		"AnyRequirPotentTransfereeRegulate": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		}
+	}],
+	"PotentTransfereeRequirEntNondisclosureAgree": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"WhenConsRequirForTransferGivenNoRefuse": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ISConsentIssueBankRequirTrans": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"ExceptionalCircRelevInf": {
+		"ClauseRef": "Clause",
+		"OtherVar": "There is a teridactal"
+	},
+	"minTransAmount": {
+		"Number": 1234,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Clause"
+		}
+	},
+	"LendersGrantSecurOverOwnRight": {
+		"ClauseRef": "Clause",
+		"OtherVar": 0
+	},
+	"PermiteedInterPeriod": {
+		"ClauseRef": "Clause",
+		"OtherVar": "my mom"
+	},
+	"ConsentRequirNonStandardInterPeriod": {
+		"ClauseRef": "Clause",
+		"OtherVar": "1234567sarqweqrfq"
+	},
+	"NoticePerForSubUtilRequestSterling": {
+		"ClauseRef": "Clause",
+		"OtherVar": "1111"
+	},
+	"NoticePerForSubUtilRequestNonSterling": {
+		"ClauseRef": "Clause",
+		"OtherVar": "12"
+	},
+	"NotePerForRepayLoan": {
+		"Number": 22,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Weeks"
+		}
+	},
+	"NotePerForCancelCommit": {
+		"Number": 1,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Buissness Days"
+		}
+	},
+	"InitPercMargin": {
+		"Number": 100,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Clause"
+		}
+	},
+	"AreCommitmentFees": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"AreUtilFees": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"VaryMargin": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"CreditAgreeContainConcDefaultLenders": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"CanObligorsOffAgainstOwedDefaultLenders": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"AgentTypes": "12456532234543234543234",
+	"OtherInfo": "124444"
+}, {
+	"settings": {
+		"Docname": "Linus is awesome.doc",
+		"status": "Approved"
+	},
+	"Security": {
+		"p1": "Linus T",
+		"p2": "MomTT",
+		"p3": "TrahairT",
+		"p4": "BesT",
+		"p5": "Lol",
+		"Comment": "MEgala"
+	},
+	"FormIdentification": {
+		"Principle_Borrow": "Lt",
+		"AllenOveryCorM_Num": "10101010101",
+		"Relevant_Facility": "Senior"
+	},
+	"Common_Venders": [false, false, false, false, false, true, true, false, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, false, false, false, false, false, false, false],
+	"AdditionalLenders": "bbs",
+	"final_report_dist_list": "bbs",
+	"PSponsor": "triple",
+	"OrigDate": "27/07/2016",
+	"Date": "27/07/2016",
+	"Commit": [{
+		"Facility": "ko",
+		"Currency": "lol",
+		"Amount": 12333333
+	}, {
+		"Facility": "ko",
+		"Currency": "ko",
+		"Amount": 23
+	}],
+	"Contacts": [{
+		"FullName": "www",
+		"Role": "mom",
+		"Contact": "444"
+	}, {
+		"FullName": "swe",
+		"Role": "ddd",
+		"Contact": "12"
+	}, {
+		"FullName": "Memes",
+		"Role": "23",
+		"Contact": "1111"
+	}],
+	"restricted": false,
+	"Facilities": {
+		"Type": "dad",
+		"Maturity": "lol",
+		"Facility": "Mom",
+		"Currency": "AAA",
+		"Amount": 123
+	},
+	"PurposeClause": {
+		"ClauseRef": "dd",
+		"OtherVar": "killer"
+	},
+	"consentlvl": "my mom",
+	"extension": "my dad",
+	"CreditToInterestRate": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"DisposeMandatorPrepayment": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ChangeMandatorPrepayment": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"CreditToTax_Gross_up": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"CreditToNegPledge": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"CreditToRestriction_IncurrringIndebtedness": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"FinancialCovenants": {
+		"debtLeverage": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"interestCover": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"CashflowCover": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"tangibleNetWorth": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		}
+	},
+	"MoreFinancialCovenants": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ObligationCause": {
+		"DocByBorrowToCreditors": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"DetailLitArbAdminProcess": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"NotificAnyDefault": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"FurtherInfoRequestFinConBusOp": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"NotificChngeOwnerOfBorrow": {
+			"ClauseRef": "Clause",
+			"OtherVar": false
+		},
+		"NotificChngeConstDocObligor": {
+			"ClauseRef": "Clause",
+			"OtherVar": true
+		},
+		"ConsAnnualFinancialStatement": {
+			"Number": 12,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"ConsSemiAnnualFinancialStatement": {
+			"Number": 1111,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		},
+		"ConsQuartAnnualFinancialStatement": {
+			"Number": 1111,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		},
+		"ConsMonthAnnualFinancialStatement": {
+			"Number": 23,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"UnConsAnnualFinancialStatement": {
+			"Number": 212333,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		},
+		"UnConsSemiAnnualFinancialStatement": {
+			"Number": 0,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"UnConsQuartAnnualFinancialStatement": {
+			"Number": 0,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": true
+			}
+		},
+		"UnConsMonthAnnualFinancialStatement": {
+			"Number": 0,
+			"Bool": {
+				"ClauseRef": "Clause",
+				"OtherVar": false
+			}
+		}
+	},
+	"IsFailPayEvent": true,
+	"MaterialAdverseChangeEvent": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"ProvCrossDefault_CrossAccel": {
+		"ClauseRef": "Clause",
+		"OtherVar": "cross-default"
+	},
+	"CrossDefOrAccelThresh": {
+		"STRING": "23423",
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "my mom"
+		}
+	},
+	"CAgrContClauseFavBank": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"GovLawPrincCAgr": "English",
+	"CAPArbitration": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"VoteOnPerameter": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"LenderSplitCommitLoansVote": {
+		"ClauseRef": "Clause",
+		"OtherVar": "No"
+	},
+	"SplitVoteDetail": {
+		"ClauseRef": "Clause",
+		"OtherVar": "3t4t432314231"
+	},
+	"HedgeBeforeEnf": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"HedgeAfterEnf": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ObligorNameJurJob": {
+		"ClauseRef": "Clause",
+		"OtherVar": "pup900-0oi9u90[u"
+	},
+	"GuarantorsGuarantAllBorrow": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"DoesAgreeAllowAddBorrow": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ConsLvlAdditionBorrowersNewJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "majority"
+	},
+	"DoesAgreeAllowAddGuarantors": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ConsLvlAdditionBorrowersExstJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "none"
+	},
+	"ConsLvlAdditionGuarantorsExstJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "none"
+	},
+	"ConsLvlAdditionGuarantorsNewJur": {
+		"ClauseRef": "Clause",
+		"OtherVar": "all"
+	},
+	"IsSecurity": false,
+	"SecurityDescrip": "2123",
+	"LawsGovSecurity": "English",
+	"IsIntercreditorAgreement": false,
+	"SecurityBenefitHedge": true,
+	"IsOriginalDocProvidedToSecurityTrust": false,
+	"DefaultnoDefault": [{
+		"TransferOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-no-consultation"
+		},
+		"DisclosureOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-no-consultation"
+		},
+		"TransferBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"DisclosureBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-no-consultation"
+		},
+		"TransferAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"DisclosureAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"AnyRequirPotentTransfereeRegulate": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		}
+	}, {
+		"TransferOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"DisclosureOtherLend": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(reasonable)"
+		},
+		"TransferBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"DisclosureBankNFinancialInst": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"TransferAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		},
+		"DisclosureAnyEntitMakesLoans": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consent(unreasonable)"
+		},
+		"AnyRequirPotentTransfereeRegulate": {
+			"ClauseRef": "Clause",
+			"OtherVar": "with-consultation"
+		}
+	}],
+	"PotentTransfereeRequirEntNondisclosureAgree": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"WhenConsRequirForTransferGivenNoRefuse": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"ISConsentIssueBankRequirTrans": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"ExceptionalCircRelevInf": {
+		"ClauseRef": "Clause",
+		"OtherVar": "There is a teridactal"
+	},
+	"minTransAmount": {
+		"Number": 1234,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Clause"
+		}
+	},
+	"LendersGrantSecurOverOwnRight": {
+		"ClauseRef": "Clause",
+		"OtherVar": 0
+	},
+	"PermiteedInterPeriod": {
+		"ClauseRef": "Clause",
+		"OtherVar": "my mom"
+	},
+	"ConsentRequirNonStandardInterPeriod": {
+		"ClauseRef": "Clause",
+		"OtherVar": "1234567sarqweqrfq"
+	},
+	"NoticePerForSubUtilRequestSterling": {
+		"ClauseRef": "Clause",
+		"OtherVar": "1111"
+	},
+	"NoticePerForSubUtilRequestNonSterling": {
+		"ClauseRef": "Clause",
+		"OtherVar": "12"
+	},
+	"NotePerForRepayLoan": {
+		"Number": 22,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Weeks"
+		}
+	},
+	"NotePerForCancelCommit": {
+		"Number": 1,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Buissness Days"
+		}
+	},
+	"InitPercMargin": {
+		"Number": 100,
+		"Bool": {
+			"ClauseRef": "Clause",
+			"OtherVar": "Clause"
+		}
+	},
+	"AreCommitmentFees": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"AreUtilFees": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"VaryMargin": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"CreditAgreeContainConcDefaultLenders": {
+		"ClauseRef": "Clause",
+		"OtherVar": true
+	},
+	"CanObligorsOffAgainstOwedDefaultLenders": {
+		"ClauseRef": "Clause",
+		"OtherVar": false
+	},
+	"AgentTypes": "12456532234543234543234",
+	"OtherInfo": "124444"
+}]
